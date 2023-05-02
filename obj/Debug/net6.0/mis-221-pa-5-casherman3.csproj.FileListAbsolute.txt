@@ -1,0 +1,15 @@
+C:\Users\casey\Desktop\School\Spring 2023\MIS 221\assignments\pa5\mis-221-pa-5-casherman3\bin\Debug\net6.0\mis-221-pa-5-casherman3.exe
+C:\Users\casey\Desktop\School\Spring 2023\MIS 221\assignments\pa5\mis-221-pa-5-casherman3\bin\Debug\net6.0\mis-221-pa-5-casherman3.deps.json
+C:\Users\casey\Desktop\School\Spring 2023\MIS 221\assignments\pa5\mis-221-pa-5-casherman3\bin\Debug\net6.0\mis-221-pa-5-casherman3.runtimeconfig.json
+C:\Users\casey\Desktop\School\Spring 2023\MIS 221\assignments\pa5\mis-221-pa-5-casherman3\bin\Debug\net6.0\mis-221-pa-5-casherman3.dll
+C:\Users\casey\Desktop\School\Spring 2023\MIS 221\assignments\pa5\mis-221-pa-5-casherman3\bin\Debug\net6.0\mis-221-pa-5-casherman3.pdb
+C:\Users\casey\Desktop\School\Spring 2023\MIS 221\assignments\pa5\mis-221-pa-5-casherman3\obj\Debug\net6.0\mis-221-pa-5-casherman3.csproj.AssemblyReference.cache
+C:\Users\casey\Desktop\School\Spring 2023\MIS 221\assignments\pa5\mis-221-pa-5-casherman3\obj\Debug\net6.0\mis-221-pa-5-casherman3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casey\Desktop\School\Spring 2023\MIS 221\assignments\pa5\mis-221-pa-5-casherman3\obj\Debug\net6.0\mis-221-pa-5-casherman3.AssemblyInfoInputs.cache
+C:\Users\casey\Desktop\School\Spring 2023\MIS 221\assignments\pa5\mis-221-pa-5-casherman3\obj\Debug\net6.0\mis-221-pa-5-casherman3.AssemblyInfo.cs
+C:\Users\casey\Desktop\School\Spring 2023\MIS 221\assignments\pa5\mis-221-pa-5-casherman3\obj\Debug\net6.0\mis-221-pa-5-casherman3.csproj.CoreCompileInputs.cache
+C:\Users\casey\Desktop\School\Spring 2023\MIS 221\assignments\pa5\mis-221-pa-5-casherman3\obj\Debug\net6.0\mis-221-pa-5-casherman3.dll
+C:\Users\casey\Desktop\School\Spring 2023\MIS 221\assignments\pa5\mis-221-pa-5-casherman3\obj\Debug\net6.0\refint\mis-221-pa-5-casherman3.dll
+C:\Users\casey\Desktop\School\Spring 2023\MIS 221\assignments\pa5\mis-221-pa-5-casherman3\obj\Debug\net6.0\mis-221-pa-5-casherman3.pdb
+C:\Users\casey\Desktop\School\Spring 2023\MIS 221\assignments\pa5\mis-221-pa-5-casherman3\obj\Debug\net6.0\mis-221-pa-5-casherman3.genruntimeconfig.cache
+C:\Users\casey\Desktop\School\Spring 2023\MIS 221\assignments\pa5\mis-221-pa-5-casherman3\obj\Debug\net6.0\ref\mis-221-pa-5-casherman3.dll
